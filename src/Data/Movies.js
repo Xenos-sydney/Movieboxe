@@ -62,7 +62,7 @@ export const SERIES = [
   { title: "Stranger Things", tag: "HBO", grad: ["#4a3020", "#170f08"], image: "/Posters/Stranger-Things.jpg" },
   { title: "Off Campus", tag: "EN", grad: ["#1c1c1c", "#050505"], image: "/Posters/Off-Campus.jpg" },
   { title: "Squid Game", tag: "New", grad: ["#5a4028", "#1a1208"], image: "/Posters/Squid-Game.jpg" },
-  { title: "House Of The Dragons", tag: "EN", grad: ["#7a2a5a", "#1e0a17"], image: "/Posters/House-Of-The-Dragon.jpg" },
+  { title: "House Of The Dragons", tag: "EN", grad: ["#7a2a5a", "#1e0a17"], image: "/Posters/House-Of-The-Dragons.jpg" },
   { title: "Wednesday", tag: "EN", grad: ["#25405a", "#08131e"], image: "/Posters/Wednesday.jpg" },
   { title: "Originals", tag: "EN", grad: ["#7a1a4a", "#1e0512"], image: "/Posters/Originals.jpg" },
 ];
@@ -92,7 +92,7 @@ export const ANIME = [
   { title: "Soul Eater", tag: "S2", grad: ["#3a5a7a", "#0f1b26"], image: "/Posters/Soul-Eater.jpg" },
   { title: "Frieren Beyond Journey's End", tag: "HBO", grad: ["#4a3020", "#170f08"], image: "/Posters/Frieren-Beyond-Journey's-End.jpg" },
   { title: "Avatar: The Last Airbender", tag: "EN", grad: ["#1c1c1c", "#050505"] , image: "/Posters/Avatar~Last-Airbender.jpg" },
-  { title: "Dragon Raja", tag: "New", grad: ["#5a4028", "#1a1208"] , image: "/Posters/DRAGON-RAJA.jpg" },
+  { title: "Dragon Raja", tag: "New", grad: ["#5a4028", "#1a1208"] , image: "/Posters/Dragon-Raja.jpg" },
   { title: "Baki Dou", tag: "EN", grad: ["#7a2a5a", "#1e0a17"] , image: "/Posters/Baki-Dou.jpg" },
   { title: "Sorcerous Stabber Orphen", tag: "EN", grad: ["#25405a", "#08131e"] , image: "/Posters/Sorcerous-Stabber-Orphen.jpg" },
 ];
@@ -104,5 +104,5 @@ export const HORROR = [
   { title: "Sinners", tag: "New", grad: ["#5a4028", "#1a1208"], image: "/Posters/Sinners.jpg" },
   { title: "The Conjuring", tag: "EN", grad: ["#7a2a5a", "#1e0a17"], image: "/Posters/The-Conjuring.jpg" },
   { title: "ScreamVI", tag: "EN", grad: ["#25405a", "#08131e"], image: "/Posters/ScreamVI.jpg" },
-  { title: "Talk to Me", tag: "EN", grad: ["#7a1a4a", "#1e0512"], image: "/Posters/Talk-to-Me.jpg" },
+  { title: "Talk To Me", tag: "EN", grad: ["#7a1a4a", "#1e0512"], image: "/Posters/Talk-To-Me.jpg" },
 ];
