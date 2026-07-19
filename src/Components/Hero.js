@@ -36,15 +36,15 @@ export default function Hero() {
 
       <button
         onClick={() => setSlide((s) => (s - 1 + HERO_SLIDES.length) % HERO_SLIDES.length)}
-        className="absolute left-3 top-1/2 -translate-y-1/2 w-8 h-8 rounded-full bg-black/40 border border-white/15 flex items-center justify-center hover:bg-black/60 z-10"
+        className="absolute left-3 top-1/2 -translate-y-1/2 w-11 h-11 rounded-full bg-black/40 border border-white/15 flex items-center justify-center hover:bg-black/60 z-10"
       >
-        <ChevronLeft size={16} />
+        <ChevronLeft size={50} />
       </button>
       <button
         onClick={() => setSlide((s) => (s + 1) % HERO_SLIDES.length)}
-        className="absolute right-3 top-1/2 -translate-y-1/2 w-8 h-8 rounded-full bg-black/40 border border-white/15 flex items-center justify-center hover:bg-black/60 z-10"
+        className="absolute right-3 top-1/2 -translate-y-1/2 w-11 h-11 rounded-full bg-black/40 border border-white/15 flex items-center justify-center hover:bg-black/60 z-10"
       >
-        <ChevronRight size={16} />
+        <ChevronRight size={50} />
       </button>
 
       <div className="absolute bottom-0 left-0 p-5 md:p-7 z-10">

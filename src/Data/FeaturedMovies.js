@@ -3,21 +3,21 @@ export const featuredMovies = [
   {
     id: 1,
     title: "Ballerina",
-    banner: "public/Banners/Ballerina.jpg",
-    rating: "8.0",
-    year: "2009",
-    duration: "2h 42m",
-    description: "An epic science-fiction adventure.",
+    Banners: "/Banners/Ballerina.jpg",
+    rating: "6.8.",
+    year: "2025",
+    duration: "1h 42m",
+    description: "An assassin trained in the traditions of the Ruska Roma organization sets out to seek revenge after her father's death.",
   },
 
   {
     id: 2,
-    title: "Dune",
-    banner: "/banners/dune.jpg",
-    rating: "8.3",
-    year: "2021",
+    title: "Chief Of War",
+    Banners: "/Banners/Chief-Of-War.jpg",
+    rating: "7.5",
+    year: "2025",
     duration: "2h 35m",
-    description: "Paul Atreides begins his destiny.",
+    description: "The story of the unification of the Hawaiian Islands from an indigenous perspective; a Hawaiian war chief joins a campaign to unite the warring islands in order to save them from the threat of colonization.",
   },
 
   {
